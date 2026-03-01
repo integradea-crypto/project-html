@@ -22,7 +22,7 @@
         <mark>Важный фрагмент текста</mark>
       </p>
       <figure>
-        <p><img scr="photo.jpg" alt=""></p>
+        <p><img src="photo.jpg" alt=""></p>
         <figcaption>Изображение</figcaption>
       </figure>
       <aside>
